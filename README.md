@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# My Task
+create read update and delete pending tasks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Tasks Screenshot](1.png)
+
+## Features
+- You can create task
+- delete a pending task
+-  
+![Tasks Screenshot](2.png)
+
+- Get the code:
+    ```
+    git clone https://github.com/Fazlullahmamond/React-myTask.git
+    ```
+
 
 ## Available Scripts
 
